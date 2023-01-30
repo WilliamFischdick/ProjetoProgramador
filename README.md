@@ -6,7 +6,7 @@ Desenvolver uma página web que simula compra de ingressos para o filme do Batma
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Programador**
 | :label: Tecnologias | HTML, CSS.
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://wliamf.github.io/ProjetoProgramador/
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://user-images.githubusercontent.com/116922569/215510933-65fc5b35-4df3-4d02-929e-d0bea2536914.png#vitrinedev)
