@@ -2,7 +2,7 @@
 
 Desenvolver uma página web que simula compra de ingressos para o filme do Batman.
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/jwfbit   |
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Programador**
 | :label: Tecnologias | HTML, CSS.
