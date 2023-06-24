@@ -1,6 +1,6 @@
 # Projeto Programador
 
-O objetivo desde projtk foi desenvolver uma página web estática para simular compra de ingressos para o filme do Batman.
+O objetivo desde projeto foi desenvolver uma página web estática para simular compra de ingressos para o filme do Batman.
 
 | :placard: Vitrine.Dev |  https://cursos.alura.com.br/vitrinedev/jwfbit   |
 | -------------  | --- |
